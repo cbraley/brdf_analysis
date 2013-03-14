@@ -1,0 +1,4 @@
+# We ignore all the BRDF files in this directory, since we don't want to
+# committ tens of GB to github.  To download the MERL MIT BRDFs, just run
+# the script dl.sh at the root of the project.
+*.binary
